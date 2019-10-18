@@ -1,0 +1,196 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
+
+
+
+
+#ext_menu-1 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-1.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-1 .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-1 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#ext_menu-1 .mbr-brand__name a {
+  font-size: 20px;
+  font-family: 'Montserrat', sans-serif;
+}
+#slider-0 P {
+  text-align: center;
+}
+#slider-0 H1 {
+  text-align: left;
+}
+#msg-box4-5 .mbr-header__text {
+  color: #2969b0;
+  font-size: 60px;
+  text-align: left;
+  font-family: 'Oswald', sans-serif;
+}
+#msg-box4-5 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-5 .mbr-article {
+  color: #000000;
+}
+#msg-box4-5 .mbr-article P {
+  text-align: left;
+}
+#features1-3 .mbr-section-title .mbr-header__text {
+  color: #2c82c9;
+  text-align: center;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 30px;
+}
+#features1-3 .mbr-section__col .mbr-header__text {
+  color: #2969b0;
+}
+#features1-7 .mbr-section__col .mbr-header__text {
+  color: #2969b0;
+}
+#msg-box5-i .mbr-header__text {
+  color: #ffffff;
+  text-align: left;
+}
+#msg-box5-i .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box5-i .mbr-article {
+  color: #ffffff;
+}
+#msg-box5-i .btn {
+  font-family: 'Oxygen', sans-serif;
+}
+#footer1-b P {
+  text-align: center;
+}
+#contacts3-f P {
+  color: #000000;
+}
+
+
+#ext_menu-j .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-j.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-j .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-j .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#ext_menu-j .mbr-brand__name a {
+  font-size: 20px;
+  font-family: 'Montserrat', sans-serif;
+}
+#footer1-k P {
+  text-align: center;
+}
+#content4-n .mbr-section-title .mbr-header__text {
+  font-family: 'Oswald', sans-serif;
+  font-size: 48px;
+  color: #efefef;
+}
+#content4-n P {
+  color: #efefef;
+}
+#features1-o .mbr-section__col .mbr-header__text {
+  color: #efefef;
+}
+#features1-o P {
+  color: #ffffff;
+  text-align: center;
+}
+#content4-w .mbr-section__col .mbr-header__text {
+  color: #293cb0;
+}
+
+
+#ext_menu-p .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-p.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-p .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-p .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#ext_menu-p .mbr-brand__name a {
+  font-size: 20px;
+  font-family: 'Montserrat', sans-serif;
+}
+#footer1-q P {
+  text-align: center;
+}
+#features1-s .mbr-section-title .mbr-header__text {
+  color: #2c82c9;
+  text-align: center;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 30px;
+}
+#features1-s .mbr-section__col .mbr-header__text {
+  color: #2969b0;
+}
+#features1-t .mbr-section__col .mbr-header__text {
+  color: #2969b0;
+}
+
+#ext_menu-7 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-7.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-7 .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-7 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#ext_menu-7 .mbr-brand__name a {
+  font-size: 20px;
+  font-family: 'Montserrat', sans-serif;
+}
+#header4-8 H1 {
+  font-size: 48px;
+  text-align: center;
+}
+#footer1-8 P {
+  text-align: center;
+}
+
+#ext_menu-9 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-9.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-9 .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-9 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#ext_menu-9 .mbr-brand__name a {
+  font-size: 20px;
+  font-family: 'Montserrat', sans-serif;
+}
+#social-buttons2-e .mbr-header__text DIV {
+  text-align: left;
+  font-size: 13px;
+}
+#footer1-a P {
+  text-align: center;
+}
